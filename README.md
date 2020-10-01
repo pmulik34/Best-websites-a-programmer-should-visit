@@ -633,7 +633,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
 - [UVa Online Judge](https://uva.onlinejudge.org) : hundreds of problems supporting multiple languages.
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
--[GeeksforGeeks](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/): It help you understand how problems are crafted in competitive programming.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/): It help you understand how problems are crafted in competitive programming.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
